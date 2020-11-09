@@ -5,4 +5,6 @@ Each item has a link to the specific Reddit post and the web application use an 
 The request message shows the title and the url of the specific post.
 Some Jquery animation is applied.
 
+<img width="570" alt="Jquerytask" src="https://user-images.githubusercontent.com/72442350/98561094-bfa45480-22a8-11eb-9e67-e6de9a069192.PNG">
+
 ### This application was developed by Hampus Olsson & Christopher Berglund
