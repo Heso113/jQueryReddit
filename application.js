@@ -32,6 +32,7 @@ function loadPosts() {
                 console.log(result.data.children[i].data.url)
                 document.getElementById('title' + i).innerText = 'Title: ' + result.data.children[i].data.title;
                 document.getElementById('url' + i).innerText = 'URL: ' + result.data.children[i].data.url;
+                document.getElementById('link' + i).href = result.data.children[i].data.url;
             }
         })
     })
