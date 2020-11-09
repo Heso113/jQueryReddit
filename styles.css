@@ -1,0 +1,27 @@
+
+.for_slick_slider {
+    width: 90%;
+    left: 5%;
+}
+
+#loadButton {
+    position: absolute;
+    left: 45%;
+    top: 45%;
+    color: black;
+    background-color: green;
+    border: 2px solid black;
+}
+
+.items {
+    text-align: center;
+    border: 2px solid black;
+}
+
+body {
+    background-color: darkkhaki;
+}
+
+h1 {
+    text-align: center;
+}
